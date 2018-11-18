@@ -4,7 +4,7 @@ Magic Mirror Module that pulls in inspirobot inspirational posters
 This an extension for the [MagicMirror](https://github.com/MichMich/MagicMirror). It will display adubiously inspirational picture, generated from an AI at inspirobot.com
 
 ## Installation
-1. Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/JonathanAnderson/MMM-inspirobot`.
+1. Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/JonathanAndersonPE/MMM-inspirobot`.
 
 ## Using the module
 
